@@ -16,4 +16,4 @@ const ElementMap = class {
   }
 };
 
-export default (root) => new ElementMap(root);
+export default root => new ElementMap(root);
