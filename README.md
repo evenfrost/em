@@ -12,7 +12,7 @@ An element map. Forms a [Map](https://developer.mozilla.org/en/docs/Web/JavaScri
 </div>
 ```
 ```javascript
-import em from './lib/em';
+import em from './em';
 
 let elements = em(); // or `em('wrap')` to change default scope from root (document) to [data-element="wrap"]
 
