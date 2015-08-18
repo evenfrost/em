@@ -1,0 +1,8 @@
+{
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "em.js",
+  "format": "es6",
+  "registry": "jspm"
+}
