@@ -1,7 +1,7 @@
 em
 ===
 
-An element map. Forms a [Map](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Map) from HTML elements with `[data-element]` attribute. Useful for division of presentation and scripts logic.
+An element map. Forms a [Map](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Map) from HTML elements with `[data-element]` attribute. Useful for separation of presentation and scripts logic.
 
 ### Example
 ```html

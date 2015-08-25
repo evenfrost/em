@@ -4,5 +4,6 @@
   },
   "main": "em.js",
   "format": "es6",
-  "registry": "jspm"
+  "registry": "jspm",
+  "dependencies": {}
 }
