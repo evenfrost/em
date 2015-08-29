@@ -18,7 +18,7 @@ let elements = em(); // or `em('wrap')` to change default scope from root (docum
 
 elements.get('wrap');
 
-for (let element of elements.get('wrapChunk')) {
+for (let element of elements.get('wrap-chunk')) {
   // ...
 }
 ```
